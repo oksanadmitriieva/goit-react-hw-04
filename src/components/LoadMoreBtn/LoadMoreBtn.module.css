@@ -7,7 +7,7 @@
 }
 .btn:hover {
   color: rgb(36, 49, 34);
-  box-shadow: 0 0 2px 2px rgb(255, 4, 0);
+  box-shadow: 0 0 2px 2px  rgb(0, 100, 0);
 }
 .container {
   display: flex;
